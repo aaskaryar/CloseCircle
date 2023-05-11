@@ -1,0 +1,18 @@
+Target dependency graph (8 targets)
+Mantis_Mantis in Mantis, no dependencies
+Mantis in Mantis, depends on:
+Mantis_Mantis in Mantis (explicit)
+Mantis in Mantis, depends on:
+Mantis in Mantis (explicit)
+Mantis_Mantis in Mantis (explicit)
+SDWebImage in SDWebImage, no dependencies
+SDWebImage in SDWebImage, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImage in SDWebImage (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI, depends on:
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
+SDWebImage in SDWebImage (explicit)
+ShadeInc in ShadeInc, depends on:
+Mantis in Mantis (explicit)
+SDWebImageSwiftUI in SDWebImageSwiftUI (explicit)
